@@ -2,7 +2,7 @@
 This is a small utility to merge files in folders recursively
 
 <p align="center">
-<img src="images/dalgenerator.png" width="320">
+<img src="images/screenshot.png" width="320">
 </p>
 
 Sometimes I needed to merge files from multiple directories, but choose the order of files to my liking before merging them.
